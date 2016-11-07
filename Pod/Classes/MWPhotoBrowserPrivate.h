@@ -52,6 +52,7 @@
     UIBarButtonItem *_previousViewControllerBackButton;
     UIImage *_previousNavigationBarBackgroundImageDefault;
     UIImage *_previousNavigationBarBackgroundImageLandscapePhone;
+    UIImage *_previousShadowImage;
     
     // Video
     MPMoviePlayerViewController *_currentVideoPlayerViewController;
